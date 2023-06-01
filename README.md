@@ -1,13 +1,14 @@
 ### Hello Wanderer!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C86-moe"/>
-
 I am ***Chise Hachiroku***, currently an undergraduate at the University of Manchester. Without doubt this is *NOT* my real name.
 
 You may find my email address on the information section, and you can [see all my projects here](https://c86.ac.cn/project/). I sometimes also write blogs focusing on discussions of topics that I feel somewhat confident in writing, and you can [find them here](https://c86.ac.cn/blog/).
 
+My primary language is C and C++, but I am also willing to use a wide range of other languages to accomplish the goals. Due to a lot of constraints, may of my public repos are coded using PHP, but I still like using C the most.
+
 Actively looking for 2024 summer internship. Will be sending out CV and cover letters starting from late June 2023.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C86-moe"/>
 ![Chise Hachiroku's GitHub stats](https://github-readme-stats.vercel.app/api?username=C86-moe&count_private=true)
 <!--
 **c86-moe/c86-moe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
