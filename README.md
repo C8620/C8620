@@ -1,4 +1,4 @@
-### Hello Wanderer!
+## Hello Wanderer!
 
 I am ***Chise Hachiroku***, currently an undergraduate at the University of Manchester. Without doubt this is *NOT* my real name.
 
