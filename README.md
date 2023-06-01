@@ -9,6 +9,7 @@ My primary language is C and C++, but I am also willing to use a wide range of o
 Actively looking for 2024 summer internship. Will be sending out CV and cover letters starting from late June 2023.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C86-moe"/>
+
 ![Chise Hachiroku's GitHub stats](https://github-readme-stats.vercel.app/api?username=C86-moe&count_private=true)
 <!--
 **c86-moe/c86-moe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
