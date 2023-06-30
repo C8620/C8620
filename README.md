@@ -4,9 +4,9 @@ I am ***Chise Hachiroku***, currently an undergraduate at the University of Manc
 
 You may find my email address on the information section, and you can [see all my projects here](https://c86.ac.cn/project/). I sometimes also write blogs focusing on discussions of topics that I feel somewhat confident in writing, and you can [find them here](https://c86.ac.cn/blog/).
 
-My primary language is C and C++, but I am also willing to use a wide range of other languages to accomplish the goals. Due to a lot of constraints, may of my public repos are coded using PHP, but I still like using C the most.
+My primary language is C and C++, but I am also willing to use a wide range of other languages to accomplish the goals. Due to a lot of constraints, many of my *public* repos are coded using PHP, but I still like using C the most anc is the go-to language for problem solving.
 
-Actively looking for 2024 summer internship. Will be sending out CV and cover letters starting from late June 2023.
+Actively looking for 2024 summer internship, and sending out CV and cover letters over the summer break.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C86-moe"/>
 
