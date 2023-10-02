@@ -1,12 +1,14 @@
 ## Hello Wanderer!
 
-I am ***Chise Hachiroku***, currently an undergraduate at the University of Manchester. Without doubt this is *NOT* my real name.
+I am ***Chise Hachiroku***, currently an undergraduate at the University of Manchester (this is the UK one). My legal name is '*Yang Hu*'.
 
 You may find my email address on the information section, and you can [see all my projects here](https://c86.ac.cn/project/). I sometimes also write blogs focusing on discussions of topics that I feel somewhat confident in writing, and you can [find them here](https://c86.ac.cn/blog/).
 
-My primary language is C and C++, but I am also willing to use a wide range of other languages to accomplish the goals. Due to a lot of constraints, many of my *public* repos are coded using PHP, but I still like using C the most anc is the go-to language for problem solving.
+My primary language is C and C++, but I am willing to use a wide range of other languages to accomplish the goals. My other commonly used languages are Python, Java, and PHP.
 
-Actively looking for 2024 summer internship, and sending out CV and cover letters over the summer break.
+Due to some constraints (commercial and private), much of my C projects are forbidden to distribute, but a lot of hobby repos written in PHP are now publicly available. Contributor of [LoliWorks](https://loli.works/) in free time.
+
+Actively looking for 2024 summer internship, and sending out CV and cover letters to a very considerable number of firms.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C86-moe"/>
 
