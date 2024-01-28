@@ -4,7 +4,7 @@ I am ***Chise Hachiroku***, currently an undergraduate at the University of Manc
 
 You may find my email address on the information section, and you can [see all my projects here](https://c86.ac.cn/project/). I sometimes also write blogs focusing on discussions of topics that I feel somewhat confident in writing, and you can [find them here](https://c86.ac.cn/blog/).
 
-My primary language is C and C++, but I am willing to use a wide range of other languages to accomplish the goals. My other commonly used languages are Python, Java, and PHP.
+My primary language is C and C++, but I am willing to employ a wide range of other languages to accomplish the goals. My other commonly used languages are Python, Java, and PHP.
 
 Due to some constraints (commercial and private), much of my C projects are forbidden to distribute, but a lot of hobby repos written in PHP are now publicly available. Contributor of [LoliWorks](https://loli.works/) in free time.
 
