@@ -10,9 +10,9 @@ Due to some constraints (commercial and private), much of my C projects are forb
 
 Actively looking for 2024 summer internship, and sending out CV and cover letters to a very considerable number of firms.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C86-moe"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C8620"/>
 
-![Chise Hachiroku's GitHub stats](https://github-readme-stats.vercel.app/api?username=C86-moe&count_private=true)
+![Chise Hachiroku's GitHub stats](https://github-readme-stats.vercel.app/api?username=C8620&count_private=true)
 <!--
 **c86-moe/c86-moe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
