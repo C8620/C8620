@@ -2,13 +2,17 @@
 
 I am ***Chise Hachiroku***, currently an undergraduate at the [University of Manchester](man.ac.uk) (this is the one in the UK). My legal name is '*Yang Hu*'.
 
-You may find my email address on the information section, and you can [see all my projects here](https://c86.ac.cn/project/). I sometimes also write blogs focusing on discussions of topics that I feel somewhat confident in writing, and you can [find them here](https://chise.hachiroku.uk/#writings).
+You may find my email address on the information section. I currently maintain a blog for my writings and some photos taken, which can be found at [8620.uk](https://chise.hachiroku.uk/). 
 
-My primary language is C and C++, with frequent uses of Python and PHP. I am willing to employ any language to accomplish the goals if required, and have experiences in writing of Java, JS, Haskell, Rust, and even ARM Assembly.
+My primary language is C and C++, with frequent uses of Python and PHP. I am willing to employ any language to accomplish the goals if required, and have experiences in writing of MySQL, Java, JS, Haskell, Rust, and even Verilog or ARM Assembly (AArch32).
 
-Due to some constraints (commercial and private), some of my best C++ projects are subject to distribution bans, but a lot of hobby repos written in PHP are now publicly available. Contributor of [LoliWorks](https://loli.works/) in free time.
+Due to some constraints (commercial and private), some of my best C++ projects are subject to distribution bans, but a lot of hobby repos written in PHP are now publicly available.
 
-Actively looking for 2024 summer internship, and sending out CV and cover letters to a very considerable number of firms.
+My projects and outputs are under the name of [LoliWorks](https://loli.works/), which I contribute to in free time and previously taken on some commercial partnerships.
+
+_'Graduated'_ AI Intern at Huawei Technologies (SRC), member of UoM's regional champinon at UKIEPC of ICPC, and represented the University in TUDelft at NWERC 2024. 
+
+Currently looking for a job when I graduate in July 2025. [Please email here if you are an employer interested.](mailto:graduate@c86.ac.cn)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C8620"/>
 
