@@ -10,7 +10,7 @@ Due to some constraints (commercial and private), some of my best C++ projects a
 
 My projects and outputs are under the name of [LoliWorks](https://loli.works/), which I contribute to in free time and previously taken on some commercial partnerships.
 
-_'Graduated'_ AI Intern at Huawei Technologies (SRC), member of UoM's regional champinon at UKIEPC of ICPC, and represented the University in TUDelft at NWERC 2024. 
+_'Graduated'_ AI Intern at Huawei Technologies (SRC), member of UoM's regional champinon at UKIEPC of ICPC, and represented the University in TUDelft at NWERC 2023. 
 
 Currently looking for a job when I graduate in July 2025. [Please email here if you are an employer interested.](mailto:graduate@c86.ac.cn)
 
