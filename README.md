@@ -1,6 +1,6 @@
 ## Hello Wanderer!
 
-I am ***Chise Hachiroku***, a graduate of the [University of Manchester](man.ac.uk) (this is the one in the UK). My legal name is '*Yang Hu*'. I am about to start my career as a General Purpose Software Engineer.
+I am ***Chise Hachiroku***, a graduate of the [University of Manchester](man.ac.uk) (the one in the UK). My legal name is '*Yang Hu*'. I am about to start my career as a General Purpose Software Engineer.
 
 You may find my email address in the information section. I currently maintain a blog for my writings and some photos taken, which can be found at [8620.uk](https://chise.hachiroku.com/). 
 
